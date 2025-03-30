@@ -1,0 +1,9 @@
+.image{
+    align-items: center;
+    justify-content: center;
+    height: 170px;
+}
+.title{
+    justify-content: center;
+    align-items: center;
+}
