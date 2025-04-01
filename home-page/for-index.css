@@ -33,3 +33,12 @@
     align-items: center;
     justify-content: center;
 }
+.main-part{
+    display: block;
+    height: auto;
+}
+.main-section2{
+    display: block;
+    height: auto;
+    width: auto;
+}
