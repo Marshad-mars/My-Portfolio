@@ -1,3 +1,4 @@
+/*The style sheet of home-page-> for-index.css*/
 .image{
     align-items: center;
     justify-content: center;
@@ -16,12 +17,12 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 270px;
+    height: 310px;
     width: 700px;
     background-color: rgb(31, 27, 27);
 }
 .div2-blackhole2{  /*footer image*/
-    height: 270px;
+    height: 310px;
     width: 650px;
     display: flex;
     align-items: center;
