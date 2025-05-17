@@ -6,4 +6,9 @@ This project is mainly composed of HTML and CSS and other function languages wou
 There would not be seperate style sheet for all the other parts of the whole web site, except for the home-page index.html to make it distinctive it from all the other parts.
 
 *Home-page is nothing but the root and also the main page of the whole website. Though there would not be any file named-> Home-page. All the other parts like projects-
-    page and others are connected with the index.html only. 
+    page and others are connected with the index.html only.
+*Projects-page contains my different different projects that i have made of different aspects. This repo would not contain any seperate style sheet.
+*Education-page contains my educational background. 
+*Experience-page contains my experiences of all theses types of activities that i have done in git hub and learned.
+
+This projects is heavily influenced by Apna College where i was learning by doing, so special thanks to them.
