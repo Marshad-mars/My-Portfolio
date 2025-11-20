@@ -20,6 +20,8 @@ body{
     border-radius: 60px;
     margin-top: 0px;
     padding-top: 0px;
+    z-index: 2;
+    position: relative;
 }
 .div1-content{  /*footer content*/
     justify-content: center;
@@ -48,15 +50,28 @@ body{
     align-items: center;
     justify-content: center;
 }
+.site_banner{
+    /* height: 645px; */
+    height: 1000px;
+    width: 100%;
+    z-index: 1;
+    position: fixed;
+    overflow: hidden;
+    background-image: url(images-section/banner.png);
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: multiply;  /*This property is used to control how multiple background layers like- bg-color, bg-image etc...blend with each other*/
+    background-size: 100% 645px;  /*width: left_value, height: right_value*/
+}
 .main-part{
-    display: block;
+    /* display: block; */
     height: auto;
+    z-index: 2;
+    position: relative;
+    margin-top: 645px;
+    background-color: white;
 }
 .main-section2{
     display: block;
     height: auto;
     width: auto;
 }
-/* .head{
-    height: ;
-} */
