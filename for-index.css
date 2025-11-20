@@ -1,4 +1,8 @@
 /*The style sheet of home-page-> for-index.css*/
+body{
+    padding: 0;
+    margin: 0;
+}
 .image{
     align-items: center;
     justify-content: center;
@@ -12,6 +16,10 @@
     background-color: rgb(31, 27, 27);
     text-decoration-color: white;
     display: flex;
+    padding-left: 50xp;
+    border-radius: 60px;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 .div1-content{  /*footer content*/
     justify-content: center;
@@ -20,6 +28,9 @@
     height: 310px;
     width: 700px;
     background-color: rgb(31, 27, 27);
+    border-radius: 60px;
+    padding-top: 0px;
+    margin-top: 0px;
 }
 .div2-blackhole2{  /*footer image*/
     height: 310px;
@@ -27,6 +38,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 60px;
+    padding-top: 0px;
+    margin-top: 0px;
 }
 .blackhole2-image{
     display: flex;
@@ -43,3 +57,6 @@
     height: auto;
     width: auto;
 }
+/* .head{
+    height: ;
+} */
