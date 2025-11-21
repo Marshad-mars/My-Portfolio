@@ -75,3 +75,10 @@ body{
     height: auto;
     width: auto;
 }
+.description-content1{
+    padding-bottom: -30px;
+}
+.projects_done{
+    background-color: white;
+    height: 100px;
+}
