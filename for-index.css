@@ -78,7 +78,9 @@ body{
 .description-content1{
     padding-bottom: -30px;
 }
-.projects_done{
+.small_clarification{
     background-color: white;
-    height: 100px;
+    background: linear-gradient(to top, black -10%, transparent);
+    color: rgb(216, 21, 21);
+    height: 80px
 }
